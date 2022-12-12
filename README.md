@@ -42,4 +42,8 @@
 - mongoose
 
 ## User guide
-- 
+
+- git clone https://github.com/abhijitnr/Todo-App-Backend.git
+- npm install
+- add PORT and MONGODB_URL in .env file
+- node index.js
